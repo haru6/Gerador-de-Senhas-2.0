@@ -1,0 +1,10 @@
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\bin\Debug\Gerador de senhas 2.0.exe.config
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\bin\Debug\Gerador de senhas 2.0.exe
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\bin\Debug\Gerador de senhas 2.0.pdb
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador de senhas 2.0.csprojResolveAssemblyReference.cache
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador_de_senhas_2._0.Form1.resources
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador_de_senhas_2._0.Properties.Resources.resources
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador de senhas 2.0.csproj.GenerateResource.Cache
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador de senhas 2.0.csproj.CoreCompileInputs.cache
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador de senhas 2.0.exe
+C:\Users\winds\source\repos\Gerador de senhas 2.0\Gerador de senhas 2.0\obj\Debug\Gerador de senhas 2.0.pdb
