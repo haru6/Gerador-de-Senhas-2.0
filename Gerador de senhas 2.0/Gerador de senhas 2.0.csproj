@@ -45,6 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\geradorSenha1.cs" />
+    <Compile Include="Model\CaracterEspecial.cs" />
+    <Compile Include="Model\geradorSenha2.cs" />
+    <Compile Include="Model\geradorSenha3.cs" />
+    <Compile Include="Model\geradorSenha4.cs" />
+    <Compile Include="Model\letraMaiuscula.cs" />
+    <Compile Include="Model\letraMinuscula.cs" />
+    <Compile Include="Model\Numero.cs" />
     <Compile Include="View\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
